@@ -1,0 +1,8 @@
+.btn {
+    height: 30px;
+    font-size: 18px;
+    background-color: chartreuse;
+    border-radius: 25px;
+    border: 2px solid black;
+    color: rgba(250, green, blue, .5);
+}
