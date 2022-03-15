@@ -1,8 +1,34 @@
+body {
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    background-color: azure;
+}
+
+h1, h2, h3 {
+    font-family: "Century Gotthic", monospace;
+    color: crimson;
+}
+
 .btn {
     height: 30px;
-    font-size: 18px;
+    font-size: 12px;
     background-color: chartreuse;
     border-radius: 25px;
     border: 2px solid black;
     color: rgba(250, green, blue, .5);
+}
+
+#btnheader {
+    height: 30px;
+    font-size: 12px;
+    background-color: chartreuse;
+    border-radius: 25px;
+    border: 2px solid black;
+    color: rgba(250, green, blue, .5);
+}
+
+.checkoutBtn {
+    height: 30px;
+    font-size: 12px;
+    background-color: rosybrown;
 }
